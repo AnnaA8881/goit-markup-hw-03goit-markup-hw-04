@@ -293,13 +293,13 @@ margin-bottom: 8px;
     text-align: center;
 }
 
-.social-links-list {
+.social-links-menu {
     display: flex;
     justify-content: center;
     gap: 24px;
 }
 
-.social-link-icon {
+.social-link-list {
     width: 40px;
     height: 40px;
 }
@@ -312,6 +312,18 @@ margin-bottom: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.social-link-link :hover {
+    background-color: #404bbf;
+}
+
+.social-link-link :focus {
+    background-color: #404bbf;
+}
+
+.social-link-icon {
+    fill: #f4f4fd;
 }
 
 /* Section 3 Styles */
