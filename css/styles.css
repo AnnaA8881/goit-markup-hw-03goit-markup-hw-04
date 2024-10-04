@@ -356,6 +356,7 @@ margin-bottom: 8px;
 .portfolio-menu {
     width: calc((100% - 48px) / 3);
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transform: translateY(0%);
 }
 
 .portfolio-menu:hover {
@@ -382,10 +383,6 @@ color: #434455;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-}
-
-.portfolio-menu-item-descr:hover {
-    transform: translateY(0%);
 }
 
 /* Section 4 Styles */
