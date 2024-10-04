@@ -314,11 +314,11 @@ margin-bottom: 8px;
     justify-content: center;
 }
 
-.icon-link link:hover {
+.icon-link:hover {
     background-color: #404bbf;
 }
 
-.icon-link link:focus {
+.icon-link:focus {
     background-color: #404bbf;
 }
 
