@@ -420,12 +420,12 @@ letter-spacing: 0.02em;
 }
 
 .container-footer {
-    margin-right: 120px;
+    display: flex;
+    align-items: baseline;
 }
 
 .div-footer {
-    display: flex;
-    align-items: baseline;
+    margin-right: 120px;
 }
 
 .page-logo-footer {
