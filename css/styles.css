@@ -71,9 +71,12 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-align: left;
 text-transform: uppercase;
-margin-right: 76px;
-padding-top: 24px;
-padding-bottom: 24px;
+}
+
+.page-logo-header {
+    margin-right: 76px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .page-logo-studio {
